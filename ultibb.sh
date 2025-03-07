@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Ultimate Bug Bounty Toolkit - Improved
-# Author: <Your Name / AI Fusion>
+# Author: Kdairatchi
 # Purpose: Automate subdomain enumeration, URL gathering, port scanning, SSL checks,
 #          fuzzing, vulnerability scanning, screenshot capture, and reporting.
 # Usage:   ./ultibb.sh <target-domain>
