@@ -43,7 +43,7 @@ Make sure the following tools are installed and accessible in your `$PATH`:
 1. **Clone** the repository:
    ```bash
    git clone https://github.com/kdairatchi/ultibb.git
-   cd Ultimate-Bug-Bounty-Toolkit
+   cd ultibb
    ```
 2. **Make the script executable**:
    ```bash
